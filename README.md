@@ -5,7 +5,7 @@ This project aims to develop a simple program to translate partially solved Sudo
 
 ## Team Members
 - Member 1: Jonathan Best, V00954981
-- Member 2: Logan Johnson, [Student ID]
+- Member 2: Logan Johnson, V00955568
 
 ## Tools and Environment
 - **Language**: Python
