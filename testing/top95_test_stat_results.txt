@@ -1,0 +1,28 @@
+restarts:
+  Average = 1.8210526315789475
+  Worst-case = 8
+
+conflicts:
+  Average = 143.53684210526316
+  Worst-case = 1225
+
+decisions:
+  Average = 248.86315789473684
+  Worst-case = 1756
+
+propagations:
+  Average = 6383.852631578948
+  Worst-case = 65765
+
+conflict_literals:
+  Average = 1749.2947368421053
+  Worst-case = 19113
+
+memory_used:
+  Average = 5.21705263157895
+  Worst-case = 5.52
+
+cpu_time:
+  Average = 0.0039405263157894724
+  Worst-case = 0.011221
+
