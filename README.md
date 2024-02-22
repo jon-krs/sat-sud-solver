@@ -25,15 +25,15 @@ This project develops a simple program to translate partially solved Sudoku puzz
 - **sud2sat.py**: 
     - 'python sud2sat.py < sudoku_encoding.txt > cnf_encoding.cnf'
 - **sat2sud.py**: 
-    - 'python sud2sat.py < miniSAT_output.txt > sudoku_solution.txt'
+    - 'python sat2sud.py < miniSAT_output.txt > sudoku_solution.txt'
 - **sud2sat2.py**: 
     - 'python sud2sat2.py < sudoku_encoding.txt > cnf_encoding.cnf'
 - **sat2sud2.py**: 
-    - 'python sud2sat2.py < miniSAT_output.txt > sudoku_solution.txt'
+    - 'python sat2sud2.py < miniSAT_output.txt > sudoku_solution.txt'
 - **sud2sat3.py**: 
     - 'python sud2sat3.py < sudoku_encoding.txt > cnf_encoding.cnf'
 - **sat2sud3.py**: 
-    - 'python sud2sat3.py < miniSAT_output.txt > sudoku_solution.txt'
+    - 'python sat2sud3.py < miniSAT_output.txt > sudoku_solution.txt'
 - **main_testing_driver.py**: 
     - In testing folder: 'python main_testing_driver.py'
     - Saves:
