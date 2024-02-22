@@ -517,7 +517,5 @@ def main():
         with open(file_name, "w") as grid_file:
             grid_file.write(grid_content)
 
-        print(f"Drafted & Saved: {file_name}")
-
 if __name__ == "__main__":
     main()

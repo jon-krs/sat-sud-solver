@@ -1,0 +1,29 @@
+Analysis for top95_test_stat_results_v3.txt:
+restarts:
+  Average = 1.0
+  Worst-case = 1
+
+conflicts:
+  Average = 10.536842105263158
+  Worst-case = 36
+
+decisions:
+  Average = 22.91578947368421
+  Worst-case = 57
+
+propagations:
+  Average = 1445.9052631578948
+  Worst-case = 3301
+
+conflict_literals:
+  Average = 58.8
+  Worst-case = 225
+
+memory_used:
+  Average = 5.311578947368421
+  Worst-case = 5.66
+
+cpu_time:
+  Average = 0.004591347368421052
+  Worst-case = 0.004902
+

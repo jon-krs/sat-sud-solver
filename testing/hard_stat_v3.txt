@@ -1,0 +1,2395 @@
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 6              (1330 /sec)
+decisions             : 25             (0.00 % random) (5543 /sec)
+propagations          : 1222           (270953 /sec)
+conflict literals     : 35             (25.53 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.00451 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 01 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 18             (3920 /sec)
+decisions             : 41             (0.00 % random) (8929 /sec)
+propagations          : 1702           (370645 /sec)
+conflict literals     : 110            (2.65 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004592 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 02 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 8              (1711 /sec)
+decisions             : 31             (0.00 % random) (6631 /sec)
+propagations          : 1554           (332406 /sec)
+conflict literals     : 31             (13.89 % deleted)
+Memory used           : 5.40 MB
+CPU time              : 0.004675 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 03 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 22             (4709 /sec)
+decisions             : 39             (0.00 % random) (8348 /sec)
+propagations          : 2237           (478810 /sec)
+conflict literals     : 129            (16.23 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004672 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 04 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 10             (2186 /sec)
+decisions             : 19             (0.00 % random) (4153 /sec)
+propagations          : 1427           (311913 /sec)
+conflict literals     : 27             (3.57 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004575 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 05 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 3              (627 /sec)
+decisions             : 14             (0.00 % random) (2927 /sec)
+propagations          : 946            (197784 /sec)
+conflict literals     : 10             (37.50 % deleted)
+Memory used           : 5.46 MB
+CPU time              : 0.004783 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 06 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 15             (3254 /sec)
+decisions             : 26             (0.00 % random) (5640 /sec)
+propagations          : 1637           (355098 /sec)
+conflict literals     : 100            (5.66 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.00461 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 07 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 7              (1515 /sec)
+decisions             : 27             (0.00 % random) (5845 /sec)
+propagations          : 1529           (331024 /sec)
+conflict literals     : 61             (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004619 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 08 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 15             (3255 /sec)
+decisions             : 27             (0.00 % random) (5858 /sec)
+propagations          : 1642           (356259 /sec)
+conflict literals     : 111            (4.31 % deleted)
+Memory used           : 5.49 MB
+CPU time              : 0.004609 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 09 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 5              (1097 /sec)
+decisions             : 21             (0.00 % random) (4606 /sec)
+propagations          : 1106           (242597 /sec)
+conflict literals     : 22             (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004559 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 10 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 16             (3359 /sec)
+decisions             : 29             (0.00 % random) (6089 /sec)
+propagations          : 1518           (318707 /sec)
+conflict literals     : 56             (1.75 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004763 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 11 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 3              (649 /sec)
+decisions             : 11             (0.00 % random) (2380 /sec)
+propagations          : 952            (206016 /sec)
+conflict literals     : 11             (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004621 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 12 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 14             (3045 /sec)
+decisions             : 33             (0.00 % random) (7179 /sec)
+propagations          : 1631           (354797 /sec)
+conflict literals     : 67             (18.29 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004597 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 13 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 15             (3120 /sec)
+decisions             : 38             (0.00 % random) (7903 /sec)
+propagations          : 1667           (346714 /sec)
+conflict literals     : 80             (4.76 % deleted)
+Memory used           : 5.60 MB
+CPU time              : 0.004808 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 14 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 3              (656 /sec)
+decisions             : 14             (0.00 % random) (3061 /sec)
+propagations          : 947            (207040 /sec)
+conflict literals     : 11             (0.00 % deleted)
+Memory used           : 5.54 MB
+CPU time              : 0.004574 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 15 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 20             (4238 /sec)
+decisions             : 33             (0.00 % random) (6993 /sec)
+propagations          : 1788           (378894 /sec)
+conflict literals     : 112            (2.61 % deleted)
+Memory used           : 5.49 MB
+CPU time              : 0.004719 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 16 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 6              (1327 /sec)
+decisions             : 19             (0.00 % random) (4203 /sec)
+propagations          : 1088           (240655 /sec)
+conflict literals     : 31             (6.06 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004521 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 17 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 11             (2449 /sec)
+decisions             : 27             (0.00 % random) (6012 /sec)
+propagations          : 1387           (308840 /sec)
+conflict literals     : 36             (5.26 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004491 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 18 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 9              (1991 /sec)
+decisions             : 21             (0.00 % random) (4645 /sec)
+propagations          : 1351           (298828 /sec)
+conflict literals     : 52             (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004521 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 19 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 23             (5115 /sec)
+decisions             : 31             (0.00 % random) (6893 /sec)
+propagations          : 2042           (454080 /sec)
+conflict literals     : 89             (17.59 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004497 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 20 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 10             (2207 /sec)
+decisions             : 32             (0.00 % random) (7061 /sec)
+propagations          : 1171           (258385 /sec)
+conflict literals     : 31             (8.82 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004532 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 21 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 7              (1566 /sec)
+decisions             : 13             (0.00 % random) (2909 /sec)
+propagations          : 1081           (241889 /sec)
+conflict literals     : 36             (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004469 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 22 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 10             (2198 /sec)
+decisions             : 25             (0.00 % random) (5495 /sec)
+propagations          : 1201           (263956 /sec)
+conflict literals     : 44             (2.22 % deleted)
+Memory used           : 5.49 MB
+CPU time              : 0.00455 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 23 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 2              (433 /sec)
+decisions             : 9              (0.00 % random) (1948 /sec)
+propagations          : 815            (176445 /sec)
+conflict literals     : 8              (0.00 % deleted)
+Memory used           : 5.49 MB
+CPU time              : 0.004619 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 24 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 9              (2011 /sec)
+decisions             : 20             (0.00 % random) (4468 /sec)
+propagations          : 1127           (251787 /sec)
+conflict literals     : 30             (3.23 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004476 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 25 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 3              (672 /sec)
+decisions             : 17             (0.00 % random) (3809 /sec)
+propagations          : 932            (208828 /sec)
+conflict literals     : 5              (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004463 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 26 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 5              (1114 /sec)
+decisions             : 25             (0.00 % random) (5572 /sec)
+propagations          : 1149           (256073 /sec)
+conflict literals     : 31             (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004487 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 27 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 9              (2012 /sec)
+decisions             : 21             (0.00 % random) (4695 /sec)
+propagations          : 1315           (293986 /sec)
+conflict literals     : 23             (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004473 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 28 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 6              (1343 /sec)
+decisions             : 13             (0.00 % random) (2909 /sec)
+propagations          : 995            (222645 /sec)
+conflict literals     : 22             (4.35 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004469 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 29 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 16             (3435 /sec)
+decisions             : 44             (0.00 % random) (9446 /sec)
+propagations          : 2083           (447188 /sec)
+conflict literals     : 86             (12.24 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004658 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 30 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 26             (5618 /sec)
+decisions             : 34             (0.00 % random) (7347 /sec)
+propagations          : 2369           (511884 /sec)
+conflict literals     : 103            (8.04 % deleted)
+Memory used           : 5.27 MB
+CPU time              : 0.004628 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 31 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 8              (1763 /sec)
+decisions             : 18             (0.00 % random) (3967 /sec)
+propagations          : 1201           (264654 /sec)
+conflict literals     : 62             (6.06 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004538 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 32 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 21             (4586 /sec)
+decisions             : 33             (0.00 % random) (7207 /sec)
+propagations          : 2212           (483075 /sec)
+conflict literals     : 59             (22.37 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004579 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 33 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 3              (664 /sec)
+decisions             : 18             (0.00 % random) (3986 /sec)
+propagations          : 978            (216563 /sec)
+conflict literals     : 13             (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004516 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 34 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 15             (3060 /sec)
+decisions             : 24             (0.00 % random) (4896 /sec)
+propagations          : 2293           (467768 /sec)
+conflict literals     : 106            (16.54 % deleted)
+Memory used           : 5.66 MB
+CPU time              : 0.004902 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 35 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 4              (870 /sec)
+decisions             : 18             (0.00 % random) (3914 /sec)
+propagations          : 976            (212220 /sec)
+conflict literals     : 11             (0.00 % deleted)
+Memory used           : 5.46 MB
+CPU time              : 0.004599 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 36 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 3              (647 /sec)
+decisions             : 14             (0.00 % random) (3020 /sec)
+propagations          : 946            (204099 /sec)
+conflict literals     : 11             (0.00 % deleted)
+Memory used           : 5.46 MB
+CPU time              : 0.004635 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 37 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 5              (1113 /sec)
+decisions             : 12             (0.00 % random) (2671 /sec)
+propagations          : 923            (205431 /sec)
+conflict literals     : 12             (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004493 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 38 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 11             (2420 /sec)
+decisions             : 24             (0.00 % random) (5279 /sec)
+propagations          : 1750           (384954 /sec)
+conflict literals     : 55             (5.17 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004546 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 39 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 6              (1344 /sec)
+decisions             : 17             (0.00 % random) (3807 /sec)
+propagations          : 1261           (282419 /sec)
+conflict literals     : 36             (2.70 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004465 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 40 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 6              (0.00 % random) (1327 /sec)
+propagations          : 728            (160955 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004523 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 41 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 2              (441 /sec)
+decisions             : 13             (0.00 % random) (2867 /sec)
+propagations          : 949            (209261 /sec)
+conflict literals     : 7              (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004535 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 42 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 15             (3272 /sec)
+decisions             : 31             (0.00 % random) (6763 /sec)
+propagations          : 1960           (427574 /sec)
+conflict literals     : 41             (8.89 % deleted)
+Memory used           : 5.46 MB
+CPU time              : 0.004584 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 43 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 17             (3713 /sec)
+decisions             : 22             (0.00 % random) (4805 /sec)
+propagations          : 1577           (344398 /sec)
+conflict literals     : 95             (4.04 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004579 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 44 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 14             (3030 /sec)
+decisions             : 21             (0.00 % random) (4544 /sec)
+propagations          : 1844           (399048 /sec)
+conflict literals     : 85             (3.41 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004621 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 45 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 3              (664 /sec)
+decisions             : 9              (0.00 % random) (1993 /sec)
+propagations          : 973            (215504 /sec)
+conflict literals     : 21             (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004515 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 46 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 26             (5601 /sec)
+decisions             : 48             (0.00 % random) (10340 /sec)
+propagations          : 2314           (498492 /sec)
+conflict literals     : 225            (11.07 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004642 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 47 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 18             (3857 /sec)
+decisions             : 25             (0.00 % random) (5357 /sec)
+propagations          : 2135           (457467 /sec)
+conflict literals     : 142            (0.70 % deleted)
+Memory used           : 5.46 MB
+CPU time              : 0.004667 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 48 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 8              (1737 /sec)
+decisions             : 25             (0.00 % random) (5429 /sec)
+propagations          : 1307           (283822 /sec)
+conflict literals     : 71             (2.74 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004605 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 49 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 7              (1545 /sec)
+decisions             : 23             (0.00 % random) (5076 /sec)
+propagations          : 1168           (257780 /sec)
+conflict literals     : 33             (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004531 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 50 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 8              (0.00 % random) (1699 /sec)
+propagations          : 729            (154843 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.49 MB
+CPU time              : 0.004708 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 51 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 9              (1977 /sec)
+decisions             : 27             (0.00 % random) (5931 /sec)
+propagations          : 1519           (333699 /sec)
+conflict literals     : 51             (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004552 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 52 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 7              (1543 /sec)
+decisions             : 10             (0.00 % random) (2204 /sec)
+propagations          : 1057           (232922 /sec)
+conflict literals     : 25             (13.79 % deleted)
+Memory used           : 5.55 MB
+CPU time              : 0.004538 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 53 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 36             (7739 /sec)
+decisions             : 46             (0.00 % random) (9888 /sec)
+propagations          : 3089           (664015 /sec)
+conflict literals     : 211            (19.77 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004652 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 54 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 5              (1112 /sec)
+decisions             : 15             (0.00 % random) (3335 /sec)
+propagations          : 1069           (237661 /sec)
+conflict literals     : 9              (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004498 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 55 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 4              (856 /sec)
+decisions             : 8              (0.00 % random) (1712 /sec)
+propagations          : 1079           (230901 /sec)
+conflict literals     : 24             (11.11 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004673 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 56 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 11             (2452 /sec)
+decisions             : 26             (0.00 % random) (5796 /sec)
+propagations          : 1151           (256576 /sec)
+conflict literals     : 32             (3.03 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004486 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 57 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 15             (3218 /sec)
+decisions             : 24             (0.00 % random) (5149 /sec)
+propagations          : 1755           (376529 /sec)
+conflict literals     : 54             (6.90 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004661 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 58 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 6              (1270 /sec)
+decisions             : 17             (0.00 % random) (3598 /sec)
+propagations          : 1362           (288254 /sec)
+conflict literals     : 35             (0.00 % deleted)
+Memory used           : 5.46 MB
+CPU time              : 0.004725 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 59 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 16             (3409 /sec)
+decisions             : 27             (0.00 % random) (5752 /sec)
+propagations          : 1991           (424159 /sec)
+conflict literals     : 113            (14.39 % deleted)
+Memory used           : 5.53 MB
+CPU time              : 0.004694 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 60 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 9              (1994 /sec)
+decisions             : 22             (0.00 % random) (4874 /sec)
+propagations          : 1392           (308374 /sec)
+conflict literals     : 38             (9.52 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004514 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 61 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 8              (1759 /sec)
+decisions             : 22             (0.00 % random) (4838 /sec)
+propagations          : 1327           (291841 /sec)
+conflict literals     : 28             (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004547 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 62 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 7              (1486 /sec)
+decisions             : 26             (0.00 % random) (5520 /sec)
+propagations          : 1221           (259236 /sec)
+conflict literals     : 67             (1.47 % deleted)
+Memory used           : 5.46 MB
+CPU time              : 0.00471 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 63 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 3              (668 /sec)
+decisions             : 8              (0.00 % random) (1781 /sec)
+propagations          : 920            (204809 /sec)
+conflict literals     : 12             (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004492 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 64 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 5              (1112 /sec)
+decisions             : 19             (0.00 % random) (4224 /sec)
+propagations          : 1237           (275011 /sec)
+conflict literals     : 33             (21.43 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004498 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 65 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 6              (0.00 % random) (1323 /sec)
+propagations          : 729            (160750 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.49 MB
+CPU time              : 0.004535 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 66 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 26             (5578 /sec)
+decisions             : 57             (0.00 % random) (12229 /sec)
+propagations          : 2385           (511693 /sec)
+conflict literals     : 172            (2.82 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004661 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 67 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 10             (2207 /sec)
+decisions             : 17             (0.00 % random) (3752 /sec)
+propagations          : 1459           (322004 /sec)
+conflict literals     : 59             (9.23 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004531 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 68 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 15             (3167 /sec)
+decisions             : 20             (0.00 % random) (4223 /sec)
+propagations          : 1777           (375211 /sec)
+conflict literals     : 68             (1.45 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004736 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 69 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 10             (2216 /sec)
+decisions             : 21             (0.00 % random) (4653 /sec)
+propagations          : 1485           (329049 /sec)
+conflict literals     : 51             (1.92 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004513 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 70 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 8              (1704 /sec)
+decisions             : 22             (0.00 % random) (4685 /sec)
+propagations          : 1157           (246380 /sec)
+conflict literals     : 113            (5.83 % deleted)
+Memory used           : 5.50 MB
+CPU time              : 0.004696 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 71 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 12             (0.00 % random) (2609 /sec)
+propagations          : 729            (158513 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.46 MB
+CPU time              : 0.004599 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 72 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 2              (441 /sec)
+decisions             : 14             (0.00 % random) (3088 /sec)
+propagations          : 949            (209307 /sec)
+conflict literals     : 7              (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004534 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 73 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 32             (6765 /sec)
+decisions             : 47             (0.00 % random) (9937 /sec)
+propagations          : 3301           (697886 /sec)
+conflict literals     : 197            (24.23 % deleted)
+Memory used           : 5.43 MB
+CPU time              : 0.00473 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 74 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 12             (2623 /sec)
+decisions             : 16             (0.00 % random) (3497 /sec)
+propagations          : 1726           (377268 /sec)
+conflict literals     : 63             (10.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004575 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 75 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 15             (3171 /sec)
+decisions             : 39             (0.00 % random) (8244 /sec)
+propagations          : 1871           (395477 /sec)
+conflict literals     : 85             (2.30 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004731 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 76 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 12             (2632 /sec)
+decisions             : 31             (0.00 % random) (6798 /sec)
+propagations          : 1424           (312281 /sec)
+conflict literals     : 89             (8.25 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.00456 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 77 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 25             (5473 /sec)
+decisions             : 47             (0.00 % random) (10289 /sec)
+propagations          : 2140           (468476 /sec)
+conflict literals     : 121            (13.57 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004568 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 78 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 13             (2827 /sec)
+decisions             : 28             (0.00 % random) (6090 /sec)
+propagations          : 1788           (388865 /sec)
+conflict literals     : 58             (9.38 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004598 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 79 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 6              (1338 /sec)
+decisions             : 17             (0.00 % random) (3791 /sec)
+propagations          : 1101           (245540 /sec)
+conflict literals     : 37             (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004484 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 80 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 3              (676 /sec)
+decisions             : 5              (0.00 % random) (1126 /sec)
+propagations          : 897            (202027 /sec)
+conflict literals     : 42             (0.00 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.00444 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 81 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 7              (1550 /sec)
+decisions             : 27             (0.00 % random) (5977 /sec)
+propagations          : 1043           (230905 /sec)
+conflict literals     : 31             (11.43 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004517 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 82 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 13             (2870 /sec)
+decisions             : 34             (0.00 % random) (7507 /sec)
+propagations          : 1553           (342901 /sec)
+conflict literals     : 119            (0.83 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004529 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 83 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 17             (3765 /sec)
+decisions             : 30             (0.00 % random) (6645 /sec)
+propagations          : 1658           (367220 /sec)
+conflict literals     : 88             (8.33 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004515 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 84 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 15             (3319 /sec)
+decisions             : 24             (0.00 % random) (5311 /sec)
+propagations          : 1627           (360035 /sec)
+conflict literals     : 81             (13.83 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004519 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 85 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 13             (2900 /sec)
+decisions             : 18             (0.00 % random) (4015 /sec)
+propagations          : 1916           (427392 /sec)
+conflict literals     : 76             (1.30 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004483 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 86 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 8              (1764 /sec)
+decisions             : 13             (0.00 % random) (2867 /sec)
+propagations          : 1234           (272106 /sec)
+conflict literals     : 79             (2.47 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004535 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 87 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 13             (2890 /sec)
+decisions             : 21             (0.00 % random) (4668 /sec)
+propagations          : 1699           (377639 /sec)
+conflict literals     : 116            (10.08 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004499 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 88 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 7              (1553 /sec)
+decisions             : 11             (0.00 % random) (2441 /sec)
+propagations          : 1259           (279405 /sec)
+conflict literals     : 23             (28.12 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004506 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 89 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 4              (838 /sec)
+decisions             : 10             (0.00 % random) (2094 /sec)
+propagations          : 1036           (216918 /sec)
+conflict literals     : 31             (0.00 % deleted)
+Memory used           : 5.30 MB
+CPU time              : 0.004776 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 90 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 14             (2939 /sec)
+decisions             : 21             (0.00 % random) (4408 /sec)
+propagations          : 1825           (383081 /sec)
+conflict literals     : 59             (3.28 % deleted)
+Memory used           : 5.46 MB
+CPU time              : 0.004764 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 91 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 17             (3524 /sec)
+decisions             : 27             (0.00 % random) (5597 /sec)
+propagations          : 1617           (335199 /sec)
+conflict literals     : 87             (17.92 % deleted)
+Memory used           : 5.30 MB
+CPU time              : 0.004824 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 92 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 12             (2630 /sec)
+decisions             : 20             (0.00 % random) (4384 /sec)
+propagations          : 1589           (348312 /sec)
+conflict literals     : 78             (4.88 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004562 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 93 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 3              (620 /sec)
+decisions             : 8              (0.00 % random) (1653 /sec)
+propagations          : 878            (181405 /sec)
+conflict literals     : 8              (0.00 % deleted)
+Memory used           : 5.44 MB
+CPU time              : 0.00484 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 94 Version 3
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:           11988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 10             (2148 /sec)
+decisions             : 29             (0.00 % random) (6230 /sec)
+propagations          : 1505           (323308 /sec)
+conflict literals     : 131            (8.39 % deleted)
+Memory used           : 5.25 MB
+CPU time              : 0.004655 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test hard_grid 95 Version 3
+====================
