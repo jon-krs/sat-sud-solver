@@ -1,0 +1,29 @@
+Analysis for project_euler_test_stat_results_v1.txt:
+restarts:
+  Average = 1.02
+  Worst-case = 2
+
+conflicts:
+  Average = 8.9
+  Worst-case = 118
+
+decisions:
+  Average = 17.7
+  Worst-case = 153
+
+propagations:
+  Average = 957.8
+  Worst-case = 5436
+
+conflict_literals:
+  Average = 56.32
+  Worst-case = 1036
+
+memory_used:
+  Average = 5.1882000000000055
+  Worst-case = 5.41
+
+cpu_time:
+  Average = 0.003118000000000001
+  Worst-case = 0.003727
+

@@ -49,8 +49,9 @@ def analyze_stats(stats):
 
     return analysis
 
-def report_stats(analysis, filename='top95_test_stat_results.txt'):
+def report_stats(analysis, filename):
     with open(filename, 'w') as file:
+        file.write(f"Analysis for {filename}:\n")
         for key, value in analysis.items():
             file.write(f"{key}:\n")
             file.write(f"  Average = {value['average']}\n")
@@ -58,15 +59,16 @@ def report_stats(analysis, filename='top95_test_stat_results.txt'):
             file.write("\n")
 
 def main():
-    # Project Euler tests
-    standard_stats = parse_stats('stat.txt')
-    standard_analysis = analyze_stats(standard_stats)
-    report_stats(standard_analysis, 'project_euler_test_stat_results.txt')
+    versions = [1, 2, 3]
+    test_types = [('project_euler', 'stat_v'), ('top95', 'hard_stat_v')]
 
-    # Top95 tests
-    hard_stats = parse_stats('hard_stat.txt')
-    hard_analysis = analyze_stats(hard_stats)
-    report_stats(hard_analysis, 'top95_test_stat_results.txt')
+    for version in versions:
+        for test_name, file_prefix in test_types:
+            file_path = f'{file_prefix}{version}.txt'
+            stats = parse_stats(file_path)
+            analysis = analyze_stats(stats)
+            report_filename = f'{test_name}_test_stat_results_v{version}.txt'
+            report_stats(analysis, report_filename)
 
 if __name__ == '__main__':
     main()

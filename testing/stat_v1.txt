@@ -1,0 +1,1289 @@
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (360 /sec)
+propagations          : 729            (262797 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.002774 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 01 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 5              (1579 /sec)
+decisions             : 8              (0.00 % random) (2527 /sec)
+propagations          : 752            (237524 /sec)
+conflict literals     : 10             (23.08 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003166 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 02 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 14             (4174 /sec)
+decisions             : 25             (0.00 % random) (7454 /sec)
+propagations          : 1100           (327967 /sec)
+conflict literals     : 71             (11.25 % deleted)
+Memory used           : 5.36 MB
+CPU time              : 0.003354 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 03 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 2              (655 /sec)
+decisions             : 3              (0.00 % random) (983 /sec)
+propagations          : 652            (213630 /sec)
+conflict literals     : 2              (0.00 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003052 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 04 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (360 /sec)
+propagations          : 729            (262230 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.00278 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 05 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 24             (7166 /sec)
+decisions             : 42             (0.00 % random) (12541 /sec)
+propagations          : 1322           (394745 /sec)
+conflict literals     : 135            (11.18 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003349 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 06 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 5              (1582 /sec)
+decisions             : 14             (0.00 % random) (4430 /sec)
+propagations          : 724            (229114 /sec)
+conflict literals     : 21             (4.55 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.00316 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 07 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (363 /sec)
+propagations          : 729            (264802 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.002753 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 08 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 11             (3339 /sec)
+decisions             : 21             (0.00 % random) (6375 /sec)
+propagations          : 864            (262295 /sec)
+conflict literals     : 35             (2.78 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003294 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 09 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 4              (1202 /sec)
+decisions             : 13             (0.00 % random) (3905 /sec)
+propagations          : 684            (205467 /sec)
+conflict literals     : 16             (20.00 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003329 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 10 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 5              (1506 /sec)
+decisions             : 15             (0.00 % random) (4518 /sec)
+propagations          : 697            (209940 /sec)
+conflict literals     : 15             (6.25 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.00332 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 11 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (334 /sec)
+propagations          : 729            (243731 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.002991 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 12 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 1              (323 /sec)
+decisions             : 3              (0.00 % random) (968 /sec)
+propagations          : 677            (218528 /sec)
+conflict literals     : 1              (0.00 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003098 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 13 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 1              (314 /sec)
+decisions             : 8              (0.00 % random) (2514 /sec)
+propagations          : 583            (183218 /sec)
+conflict literals     : 6              (0.00 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003182 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 14 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (338 /sec)
+propagations          : 662            (224027 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.002955 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 15 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (347 /sec)
+propagations          : 729            (252686 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.002885 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 16 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (355 /sec)
+propagations          : 729            (258786 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.002817 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 17 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 2              (653 /sec)
+decisions             : 13             (0.00 % random) (4247 /sec)
+propagations          : 687            (224436 /sec)
+conflict literals     : 4              (0.00 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003061 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 18 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (362 /sec)
+propagations          : 729            (263557 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.002766 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 19 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (361 /sec)
+propagations          : 729            (263082 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.002771 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 20 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 2              (611 /sec)
+decisions             : 9              (0.00 % random) (2750 /sec)
+propagations          : 643            (196456 /sec)
+conflict literals     : 2              (0.00 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003273 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 21 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 2              (656 /sec)
+decisions             : 9              (0.00 % random) (2950 /sec)
+propagations          : 689            (225828 /sec)
+conflict literals     : 3              (0.00 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003051 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 22 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 1              (328 /sec)
+decisions             : 4              (0.00 % random) (1313 /sec)
+propagations          : 659            (216349 /sec)
+conflict literals     : 1              (0.00 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003046 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 23 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 5              (1639 /sec)
+decisions             : 9              (0.00 % random) (2950 /sec)
+propagations          : 719            (235660 /sec)
+conflict literals     : 13             (0.00 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003051 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 24 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 6              (1870 /sec)
+decisions             : 18             (0.00 % random) (5611 /sec)
+propagations          : 800            (249377 /sec)
+conflict literals     : 11             (8.33 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003208 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 25 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 25             (7634 /sec)
+decisions             : 54             (0.00 % random) (16489 /sec)
+propagations          : 1356           (414046 /sec)
+conflict literals     : 90             (16.67 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003275 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 26 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 2              (649 /sec)
+decisions             : 3              (0.00 % random) (973 /sec)
+propagations          : 701            (227376 /sec)
+conflict literals     : 2              (0.00 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003083 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 27 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 2              (651 /sec)
+decisions             : 10             (0.00 % random) (3253 /sec)
+propagations          : 704            (229018 /sec)
+conflict literals     : 2              (0.00 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003074 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 28 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 3              (921 /sec)
+decisions             : 17             (0.00 % random) (5218 /sec)
+propagations          : 668            (205034 /sec)
+conflict literals     : 8              (0.00 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003258 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 29 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 11             (3358 /sec)
+decisions             : 19             (0.00 % random) (5800 /sec)
+propagations          : 981            (299451 /sec)
+conflict literals     : 63             (7.35 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003276 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 30 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 5              (1544 /sec)
+decisions             : 30             (0.00 % random) (9262 /sec)
+propagations          : 773            (238654 /sec)
+conflict literals     : 15             (16.67 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003239 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 31 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 8              (0.00 % random) (2600 /sec)
+propagations          : 613            (199220 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003077 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 32 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 2              (651 /sec)
+decisions             : 5              (0.00 % random) (1628 /sec)
+propagations          : 648            (211006 /sec)
+conflict literals     : 3              (0.00 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003071 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 33 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (359 /sec)
+propagations          : 729            (261853 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.002784 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 34 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 5              (0.00 % random) (1637 /sec)
+propagations          : 599            (196072 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003055 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 35 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (360 /sec)
+propagations          : 729            (262136 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.002781 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 36 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 1              (322 /sec)
+decisions             : 4              (0.00 % random) (1286 /sec)
+propagations          : 600            (192926 /sec)
+conflict literals     : 1              (0.00 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.00311 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 37 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (359 /sec)
+propagations          : 729            (261478 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.002788 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 38 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (336 /sec)
+propagations          : 622            (208725 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.00298 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 39 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (357 /sec)
+propagations          : 729            (260078 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.002803 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 40 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 11             (3390 /sec)
+decisions             : 21             (0.00 % random) (6471 /sec)
+propagations          : 864            (266256 /sec)
+conflict literals     : 35             (2.78 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003245 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 41 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 8              (2522 /sec)
+decisions             : 22             (0.00 % random) (6936 /sec)
+propagations          : 830            (261665 /sec)
+conflict literals     : 33             (0.00 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003172 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 42 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 8              (2498 /sec)
+decisions             : 21             (0.00 % random) (6556 /sec)
+propagations          : 865            (270059 /sec)
+conflict literals     : 43             (0.00 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003203 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 43 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 26             (7782 /sec)
+decisions             : 40             (0.00 % random) (11972 /sec)
+propagations          : 1720           (514816 /sec)
+conflict literals     : 176            (4.86 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003341 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 44 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 11             (3413 /sec)
+decisions             : 32             (0.00 % random) (9929 /sec)
+propagations          : 1025           (318027 /sec)
+conflict literals     : 50             (10.71 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003223 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 45 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 11             (3300 /sec)
+decisions             : 28             (0.00 % random) (8401 /sec)
+propagations          : 926            (277828 /sec)
+conflict literals     : 86             (0.00 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003333 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 46 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+|       100 |     166      986     2592 |      361      100      9 | 55.146 % |
+===============================================================================
+restarts              : 2
+conflicts             : 118            (31661 /sec)
+decisions             : 153            (0.00 % random) (41052 /sec)
+propagations          : 5436           (1458546 /sec)
+conflict literals     : 1036           (15.29 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003727 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 47 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 16             (4763 /sec)
+decisions             : 43             (0.00 % random) (12801 /sec)
+propagations          : 1016           (302471 /sec)
+conflict literals     : 107            (9.32 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003359 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 48 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 87             (23810 /sec)
+decisions             : 123            (0.00 % random) (33662 /sec)
+propagations          : 4501           (1231801 /sec)
+conflict literals     : 697            (35.10 % deleted)
+Memory used           : 5.18 MB
+CPU time              : 0.003654 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 49 Version 1
+====================
+============================[ Problem Statistics ]=============================
+|                                                                             |
+|  Number of variables:           729                                         |
+|  Number of clauses:            8829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 8              (2284 /sec)
+decisions             : 19             (0.00 % random) (5424 /sec)
+propagations          : 780            (222666 /sec)
+conflict literals     : 23             (0.00 % deleted)
+Memory used           : 5.41 MB
+CPU time              : 0.003503 s
+
+SATISFIABLE
+
+====================
+miniSAT stat output for test grid 50 Version 1
+====================
