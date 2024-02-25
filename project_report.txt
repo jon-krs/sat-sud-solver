@@ -1,0 +1,87 @@
+# SAT-based Sudoku Solver Project Report:
+
+Please see README.md for project description, usage, and file contents.
+
+
+The testing framework compared the performance of three versions of the
+solver across two sets of puzzles: Project Euler's easier puzzles and 
+the Top95 challenging puzzles. Following are the findings:
+
+## Version 1 (sat2sud/sud2sat) Testing Results
+
+    - Project Euler Puzzles: found in testing/project_euler_test_stat_results_v1.txt.
+
+    - Top95 Puzzles: found in testing/top95_test_stat_results_v1.txt.
+
+    Visual puzzle output found in sudoku_output_v1.txt and hard_sudoku_output_v1.txt.
+
+## Version 2 (sat2sud2/sud2sat2) Testing Results
+
+    - Project Euler Puzzles: found in testing/project_euler_test_stat_results_v2.txt.
+
+    - Top95 Puzzles: found in testing/top95_test_stat_results_v2.txt.
+
+    Visual puzzle output found in sudoku_output_v2.txt and hard_sudoku_output_v2.txt.
+
+## Version 3 (sat2sud3/sud2sat3) Testing Results
+
+    - Project Euler Puzzles: found in testing/project_euler_test_stat_results_v3.txt.
+
+    - Top95 Puzzles: found in testing/top95_test_stat_results_v3.txt.
+
+    Visual puzzle output found in sudoku_output_v3.txt and hard_sudoku_output_v3.txt.
+
+
+## Extended Tasks 
+
+- Extended Task 1: Satisified by running testing/testing_suite.py and observing generated result files.
+- Extended Task 2: Added efficient encoding, found in sat2sud2.py/sud2sat2.py (see in-line comments in file).
+- Extended Task 3: Added extended encoding, found in sat2sud3.py/sud2sat3.py (see in-line comments in file).
+
+
+## Test Observations
+
+- Efficiency Improvements
+
+The iterative development from Version 1 to Version 3 shows the impact of 
+encoding optimizations on solver performance. The additional puzzle 
+encodings reduced the complexity of the CNF formulas but led to 
+efficiency decreases in the solver's ability to handle harder puzzles. 
+
+For the Project Euler tests, the solver's efficiency worsened with the 
+additional encodings going from an average CPU time of ~ 0.0031 and 
+memory used of ~ 5.1882 in version 1 to an average CPU time of ~ 0.0044 and 
+memory used of ~ 5.2692 in version 3, with worst case results 0.0037, 5.41,
+0.0047, and 5.45 respectively. Demonstrating a gradual decrease in efficiency.
+
+For the Top95 tests, the solver's efficiency results are more mixed with the
+average case results indicating a general decrease of efficiency but the worst
+case results indicating an increase from version 1 to version 3 with the 
+additional encodings. The results begin with an average CPU time of ~ 0.0039 
+and memory used of ~ 5.2138 in version 1 to an average CPU time of ~ 0.0046 
+and memory used of ~ 5.3116 in version 3, with worst case results 0.0109, 5.49,
+0.0049, and 5.66 respectively.
+
+Worth noting is that in both test suites, version 2 of the program indicates a 
+slight increase in efficiency for the worst case scenerios with mixed results
+for the average case. 
+
+- Solver Performance
+
+Across both sets of puzzle suites, the transition to more advanced encoding strategies 
+resulted in a consistent decrease in the number of restarts, conflicts, and 
+decisions required by the miniSAT solver. This improvement was particularly 
+notable in the difference between version 2 and 3 for both sets, where version 3 
+demonstrates a significant improvement in performance.
+
+Worth noting is while performance increased consistently through each program version, 
+between version 1 and 2 in the Top95 tests, average case performance decreased while 
+worst case performance increased for all measured statistics.
+
+
+## Conclusion
+
+This SAT-based Sudoku Solver project demonstrates the application of SAT solvers 
+as they apply to the puzzle game of Sudoku. Through iterative development and testing, 
+the project shows the importance of efficient and extended CNF encoding in improving 
+solver performance at the expense of efficiency. 

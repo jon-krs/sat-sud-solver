@@ -13,6 +13,8 @@ This project develops a simple program to translate partially solved Sudoku puzz
 - **Dependencies**: miniSAT (Available on linux.csc.uvic.ca)
 
 ## Content
+- **make_executable.sh**: Shell script to generate executable versions of python files.
+- **project_report.txt**: Project summary giving information regarding background, implementation, and test results.
 - **sud2sat.py**: Reads a Sudoku puzzle and converts it into a CNF formula suitable for the miniSAT SAT solver.
 - **sat2sud.py**: Converts the output from miniSAT back into a solved Sudoku puzzle.
 - **sud2sat2.py**: Adds **efficient encoding** to the minimal encoding in sud2sat.
@@ -20,6 +22,13 @@ This project develops a simple program to translate partially solved Sudoku puzz
 - **sud2sat3.py**: Adds **extended encoding** to the efficient encoding in sud2sat2.
 - **sat2sud3.py**: Converts the output from miniSAT back into a solved Sudoku puzzle.
 - **main_testing_driver.py**: Drives testing suite for all versions, creates, analyzes, and saves statistics from miniSAT.
+    - **project_euler_testing_file_generator.py**: Converts encoded puzzles from text content into individual test files.
+    - **top95_hard_testing_file_generator.py**: Converts encoded puzzles from text content into individual test files.
+    - **testing_suite.py**: Runs all test files through all versions of sud2sat/sat2sud, calling miniSAT api and saving results.
+    - **testing_suite_analysis.py**: Analyzes statistics from miniSAT api for all versions and saves to result files.
+    - **{hard}_sudoku_output_v{#}.txt**: Sudoku output puzzles by version and test suite.
+    - **{hard}_stat_v{#}.txt**: miniSAT output statistics by version and test suite.
+    - **{testing_suite}_test_stat_results_v{#}.txt**: Analyzed miniSAT statistics by version and test suite, including worst case and average performance of tests.
 
 ## Usage
 - **sud2sat.py**: 
