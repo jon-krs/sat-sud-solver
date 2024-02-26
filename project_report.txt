@@ -2,11 +2,35 @@
 
 Please see README.md for project description, usage, and file contents.
 
+# Introduction:
+This report details the creation of a Sudoku puzzle solver using the SAT (Boolean Satisfiability Problem) methodology. The project focuses on encoding Sudoku puzzles into Conjunctive Normal Form (CNF) and solving them with miniSAT, a specific SAT solver.
 
-The testing framework compared the performance of three versions of the
-solver across two sets of puzzles: Project Euler's easier puzzles and 
-the Top95 challenging puzzles. Following are the Performance Evaluation 
-findings, please find the Report - General further below:
+# Sudoku as a SAT Problem:
+Sudoku, a popular logic-based puzzle, is effectively formulated as a SAT problem. This involves representing the Sudoku puzzle's logical constraints in CNF.
+
+# Basic Sudoku Structure and Boolean Variables:
+A standard Sudoku puzzle comprises a 9x9 grid divided into nine 3x3 subgrids. The challenge is to fill this grid with digits 1 to 9, ensuring each digit appears once in every row, column, and subgrid. In the SAT formulation, every potential number placement in the grid is denoted as a boolean variable, leading to 729 variables for a 9x9 Sudoku.
+
+# CNF Representation and SAT Solver:
+Sudoku rules are translated into CNF clauses. These rules include cell, row, column, and subgrid constraints, along with additional clauses for pre-filled cells in specific puzzles. The SAT solver searches for a truth value assignment to these variables that satisfies all clauses, thus solving the puzzle.
+
+# Development Process:
+Our development process involved creating a Sudoku-to-SAT converter (sud2sat) capable of handling various puzzle formats. This included 'flattening' the input puzzle into a continuous string, recognizing and standardizing 'wildcard' characters, and encoding the puzzle into CNF. We also implemented an 'efficient encoding' strategy to minimize the possibilities for the SAT solver, thereby enhancing performance. Our implementation adheres to the DIMACS format for compatibility with a range of SAT solvers.
+
+# SAT-to-Sudoku Conversion (sat2sud):
+Complementing sud2sat, sat2sud converts the SAT solver's output back into a Sudoku puzzle format. This involves decoding SAT variables back into Sudoku cell values and handling unsolvable puzzles by indicating an 'UNSATISFIABLE' status to the user. This feature ensures a complete solution for solving Sudoku puzzles, from input to output.
+
+# Key Features:
+- Flattening Input: Converts puzzles into a uniform string format, removing formatting inconsistencies.
+- Handling Wildcards: Recognizes and standardizes wildcard characters for empty cells.
+- CNF Encoding: Translates Sudoku rules into logical CNF clauses, with a focus on efficiency.
+- DIMACS Format Output: Ensures compatibility with various SAT solvers.
+- Error Handling in sat2sud: Detects and communicates unsolvable puzzles to the user.
+
+Our project demonstrates the effective application of SAT solvers to solve complex Sudoku puzzles, showcasing the power of logical representation in combinatorial problem-solving.
+
+# Testing Framework:
+The testing framework compared the performance of three versions of the solver across two sets of puzzles: Project Euler's easier puzzles and the Top95 challenging puzzles. Following are the Performance Evaluation findings, please find the Report - General further below:
 
 ## Version 1 (sat2sud/sud2sat) Testing Results
 
@@ -39,7 +63,7 @@ findings, please find the Report - General further below:
     for Project Euler and Top95, respectively.
 
 
-## Extended Tasks 
+# Extended Tasks 
 
 - Extended Task 1: Satisified by running testing/testing_suite.py with base program and observing generated result files.
 
@@ -61,7 +85,7 @@ findings, please find the Report - General further below:
 - Extended Task 3: Added extended encoding, found in sat2sud3.py/sud2sat3.py (see in-line comments in file).
 
 
-## Test Observations
+# Test Observations
 
 - Efficiency Improvements
 
