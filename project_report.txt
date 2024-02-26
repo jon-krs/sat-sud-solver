@@ -5,37 +5,59 @@ Please see README.md for project description, usage, and file contents.
 
 The testing framework compared the performance of three versions of the
 solver across two sets of puzzles: Project Euler's easier puzzles and 
-the Top95 challenging puzzles. Following are the findings:
+the Top95 challenging puzzles. Following are the Performance Evaluation 
+findings, please find the Report - General further below:
 
 ## Version 1 (sat2sud/sud2sat) Testing Results
 
-    - Project Euler Puzzles: found in testing/project_euler_test_stat_results_v1.txt.
+    Please find the Report - Performance Evaluation for version 1 at the following locations:
 
+    - Project Euler Puzzles: found in testing/project_euler_test_stat_results_v1.txt.
     - Top95 Puzzles: found in testing/top95_test_stat_results_v1.txt.
 
-    Visual puzzle output found in sudoku_output_v1.txt and hard_sudoku_output_v1.txt.
+    Visual puzzle output found in sudoku_output_v1.txt and hard_sudoku_output_v1.txt, 
+    for Project Euler and Top95, respectively.
 
 ## Version 2 (sat2sud2/sud2sat2) Testing Results
 
-    - Project Euler Puzzles: found in testing/project_euler_test_stat_results_v2.txt.
+    Please find the Report - Performance Evaluation for version 2 at the following locations:
 
+    - Project Euler Puzzles: found in testing/project_euler_test_stat_results_v2.txt.
     - Top95 Puzzles: found in testing/top95_test_stat_results_v2.txt.
 
-    Visual puzzle output found in sudoku_output_v2.txt and hard_sudoku_output_v2.txt.
+    Visual puzzle output found in sudoku_output_v2.txt and hard_sudoku_output_v2.txt, 
+    for Project Euler and Top95, respectively.
 
 ## Version 3 (sat2sud3/sud2sat3) Testing Results
 
-    - Project Euler Puzzles: found in testing/project_euler_test_stat_results_v3.txt.
+    Please find the Report - Performance Evaluation for version 3 at the following locations:
 
+    - Project Euler Puzzles: found in testing/project_euler_test_stat_results_v3.txt.
     - Top95 Puzzles: found in testing/top95_test_stat_results_v3.txt.
 
-    Visual puzzle output found in sudoku_output_v3.txt and hard_sudoku_output_v3.txt.
+    Visual puzzle output found in sudoku_output_v3.txt and hard_sudoku_output_v3.txt, 
+    for Project Euler and Top95, respectively.
 
 
 ## Extended Tasks 
 
-- Extended Task 1: Satisified by running testing/testing_suite.py and observing generated result files.
+- Extended Task 1: Satisified by running testing/testing_suite.py with base program and observing generated result files.
+
+    - NOTE: Assignment acceptance criteria unclear. Unknown how to interface with miniSAT for all 95 puzzles.
+    No additional implementation of sud2sat/sat2sud required. Please see testing folder (specifically testing_suite.py).
+    Abstracting the solution program from the parsing program is ideal. Solution has handled this functionality 
+    within the testing script by:
+
+        1. Parsing text data from magictour.free.fr/top95
+        2. Saving individual .txt files for each of the 95 tests
+        3. Calling appropriate version of sud2sat for all 95 tests
+        4. Interfacing with miniSAT api for all 95 tests
+        5. Calling appropriate version of sat2sud for all 95 tests
+        6. Saving resulting data and cleaning generated files.
+        * Repeated additionally for Project Euler tests (50) and for all versions (see testing folder).
+
 - Extended Task 2: Added efficient encoding, found in sat2sud2.py/sud2sat2.py (see in-line comments in file).
+
 - Extended Task 3: Added extended encoding, found in sat2sud3.py/sud2sat3.py (see in-line comments in file).
 
 
@@ -43,40 +65,40 @@ the Top95 challenging puzzles. Following are the findings:
 
 - Efficiency Improvements
 
-The iterative development from Version 1 to Version 3 shows the impact of 
-encoding optimizations on solver performance. The additional puzzle 
-encodings reduced the complexity of the CNF formulas but led to 
-efficiency decreases in the solver's ability to handle harder puzzles. 
+    The iterative development from Version 1 to Version 3 shows the impact of 
+    encoding optimizations on solver performance. The additional puzzle 
+    encodings reduced the complexity of the CNF formulas but led to 
+    efficiency decreases in the solver's ability to handle harder puzzles. 
 
-For the Project Euler tests, the solver's efficiency worsened with the 
-additional encodings going from an average CPU time of ~ 0.0031 and 
-memory used of ~ 5.1882 in version 1 to an average CPU time of ~ 0.0044 and 
-memory used of ~ 5.2692 in version 3, with worst case results 0.0037, 5.41,
-0.0047, and 5.45 respectively. Demonstrating a gradual decrease in efficiency.
+    For the Project Euler tests, the solver's efficiency worsened with the 
+    additional encodings going from an average CPU time of ~ 0.0031 and 
+    memory used of ~ 5.1882 in version 1 to an average CPU time of ~ 0.0044 and 
+    memory used of ~ 5.2692 in version 3, with worst case results 0.0037, 5.41,
+    0.0047, and 5.45 respectively. Demonstrating a gradual decrease in efficiency.
 
-For the Top95 tests, the solver's efficiency results are more mixed with the
-average case results indicating a general decrease of efficiency but the worst
-case results indicating an increase from version 1 to version 3 with the 
-additional encodings. The results begin with an average CPU time of ~ 0.0039 
-and memory used of ~ 5.2138 in version 1 to an average CPU time of ~ 0.0046 
-and memory used of ~ 5.3116 in version 3, with worst case results 0.0109, 5.49,
-0.0049, and 5.66 respectively.
+    For the Top95 tests, the solver's efficiency results are more mixed with the
+    average case results indicating a general decrease of efficiency but the worst
+    case results indicating an increase from version 1 to version 3 with the 
+    additional encodings. The results begin with an average CPU time of ~ 0.0039 
+    and memory used of ~ 5.2138 in version 1 to an average CPU time of ~ 0.0046 
+    and memory used of ~ 5.3116 in version 3, with worst case results 0.0109, 5.49,
+    0.0049, and 5.66 respectively.
 
-Worth noting is that in both test suites, version 2 of the program indicates a 
-slight increase in efficiency for the worst case scenerios with mixed results
-for the average case. 
+    Worth noting is that in both test suites, version 2 of the program indicates a 
+    slight increase in efficiency for the worst case scenerios with mixed results
+    for the average case. 
 
 - Solver Performance
 
-Across both sets of puzzle suites, the transition to more advanced encoding strategies 
-resulted in a consistent decrease in the number of restarts, conflicts, and 
-decisions required by the miniSAT solver. This improvement was particularly 
-notable in the difference between version 2 and 3 for both sets, where version 3 
-demonstrates a significant improvement in performance.
+    Across both sets of puzzle suites, the transition to more advanced encoding strategies 
+    resulted in a consistent decrease in the number of restarts, conflicts, and 
+    decisions required by the miniSAT solver. This improvement was particularly 
+    noticable in the difference between version 2 and 3 for both sets, where version 3 
+    demonstrates a significant improvement in performance.
 
-Worth noting is while performance increased consistently through each program version, 
-between version 1 and 2 in the Top95 tests, average case performance decreased while 
-worst case performance increased for all measured statistics.
+    Worth noting is while performance increased consistently through each program version, 
+    between version 1 and 2 in the Top95 tests, average case performance decreased while 
+    worst case performance increased for all measured statistics.
 
 
 ## Conclusion

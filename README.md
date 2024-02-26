@@ -1,5 +1,8 @@
 # SAT-based Sudoku Solver
 
+## Project Report
+Please see project_report.txt for general/performance evaluation report including - direction to results, observations, summary, and extended task implementation.
+
 ## Project Overview
 This project develops a simple program to translate partially solved Sudoku puzzles into CNF (Conjunctive Normal Form) formulas, making the CNF satisfiable if and only if the Sudoku puzzle can be solved. This involves creating two main programs: `sud2sat` and `sat2sud`, which convert Sudoku puzzles to CNF and vice versa, respectively. Also included is a full testing suite to generate reports on and analyze data collected from the miniSAT api.
 
@@ -31,20 +34,29 @@ This project develops a simple program to translate partially solved Sudoku puzz
     - **{testing_suite}_test_stat_results_v{#}.txt**: Analyzed miniSAT statistics by version and test suite, including worst case and average performance of tests.
 
 ## Usage
+- **make_executable.sh**:
+    - 'sh make_executable.sh'
 - **sud2sat.py**: 
     - 'python sud2sat.py < sudoku_encoding.txt > cnf_encoding.cnf'
+    - If executable: './sud2sat < sudoku_encoding.txt > cnf_encoding.cnf'
 - **sat2sud.py**: 
     - 'python sat2sud.py < miniSAT_output.txt > sudoku_solution.txt'
+    - If executable: './sat2sud < sudoku_encoding.txt > cnf_encoding.cnf'
 - **sud2sat2.py**: 
     - 'python sud2sat2.py < sudoku_encoding.txt > cnf_encoding.cnf'
+    - If executable: './sud2sat2 < sudoku_encoding.txt > cnf_encoding.cnf'
 - **sat2sud2.py**: 
     - 'python sat2sud2.py < miniSAT_output.txt > sudoku_solution.txt'
+    - If executable: './sat2sud2 < sudoku_encoding.txt > cnf_encoding.cnf'
 - **sud2sat3.py**: 
     - 'python sud2sat3.py < sudoku_encoding.txt > cnf_encoding.cnf'
+    - If executable: './sud2sat3 < sudoku_encoding.txt > cnf_encoding.cnf'
 - **sat2sud3.py**: 
     - 'python sat2sud3.py < miniSAT_output.txt > sudoku_solution.txt'
+    - If executable: './sat2sud3 < sudoku_encoding.txt > cnf_encoding.cnf'
 - **main_testing_driver.py**: 
     - In testing folder: 'python main_testing_driver.py'
+    - If executable: './main_testing_driver'
     - Saves:
         - 'project_euler_test_stat_results_{version}.txt' - analyzed results from easy puzzles at Project Euler
         - 'top95_test_stat_results_{version}.txt' - analyzed results from hard puzzles at Top95
